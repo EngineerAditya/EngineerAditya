@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science student** passionate about **Artificial Intelligence and Machine Learning**. My focus is on building practical AI/ML solutions and I've developed the full-stack skills needed to deploy them end-to-end. I believe in learning by doing, which is why I've worked on several projects that combine ML algorithms with real-world applications.
+I'm a **Electronics and Computer Engineering student at Manipal Institute of Technology,Bengaluru** passionate about **Artificial Intelligence and Machine Learning**. My focus is on building practical AI/ML solutions and I've developed the full-stack skills needed to deploy them end-to-end. I believe in learning by doing, which is why I've worked on several projects that combine ML algorithms with real-world applications.
 
 ### 💼 What I Bring to the Table
 
