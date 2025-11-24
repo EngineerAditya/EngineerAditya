@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Aditya
+# 👋 Hi, I'm Aditya Sinha
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student;Building+%26+Deploying+ML+Solutions;Full-Stack+Capable;Always+Learning" alt="Typing SVG" />
 
@@ -176,10 +176,11 @@ Whether it's an internship, project collaboration, or entry-level role - I'm eag
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/EngineerAditya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityasinha2006/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.adityasinha2006@gmail.com)
 
 <!-- Add your contact info here:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 -->
 
 **Open to opportunities in:**
