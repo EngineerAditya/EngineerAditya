@@ -147,11 +147,12 @@ As a student, I'm continuously expanding my knowledge:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerAditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerAditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerAditya&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -194,8 +195,6 @@ Whether it's an internship, project collaboration, or entry-level role - I'm eag
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=EngineerAditya&color=blueviolet&style=for-the-badge)
 
 *Thanks for visiting! Feel free to explore my projects and reach out if you'd like to connect.*
 
