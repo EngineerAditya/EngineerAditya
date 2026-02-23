@@ -1,201 +1,192 @@
-<div align="center">
-  
-# 👋 Hi, I'm Aditya Sinha
+# TechSolstice'26 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student;Building+%26+Deploying+ML+Solutions;Full-Stack+Capable;Always+Learning" alt="Typing SVG" />
+The official website for **TechSolstice'26** — the annual technical fest of Manipal Institute of Technology, Bengaluru. Built with Next.js 16, featuring a modern dark theme, smooth animations, and a full event management system.
 
-</div>
+## 🛠️ Tech Stack
 
----
-
-## 🎓 About Me
-
-I'm a **Electronics and Computer Engineering student at Manipal Institute of Technology,Bengaluru** passionate about **Artificial Intelligence and Machine Learning**. My focus is on building practical AI/ML solutions and I've developed the full-stack skills needed to deploy them end-to-end. I believe in learning by doing, which is why I've worked on several projects that combine ML algorithms with real-world applications.
-
-### 💼 What I Bring to the Table
-
-**Core Strength: AI/ML Engineering**
-- Experience with computer vision, NLP, and deep learning frameworks (TensorFlow, OpenCV, MediaPipe)
-- Hands-on with building and training models for real-world applications
-- Understanding of ML pipelines from data preprocessing to model deployment
-
-**Deployment Enabler: Full-Stack Development**
-- Can build web interfaces and APIs to make ML models accessible and usable
-- Comfortable with JavaScript/TypeScript, React, Next.js for frontend
-- Able to take projects from concept to production deployment (Vercel, GitHub Pages)
-
-**Learning Focus:**
-- 🧠 Deepening knowledge in **Generative AI & LLMs**
-- 🤖 Building more robust **ML systems**
-- ☁️ Exploring **Cloud platforms** (AWS, Azure, GCP) for scalable deployments
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS 4
+- **Animations:** GSAP, Framer Motion
+- **3D:** Spline
+- **Auth:** NextAuth.js + Supabase
+- **Database:** Supabase (PostgreSQL)
+- **AI Chatbot:** Google Gemini + Vector Search
 
 ---
 
-## 🚀 Projects
+## 📁 Project Structure
 
-### 🤖 AI/ML Core Projects
-
-#### 🧠 [Investment Recommendation Assistant](https://github.com/EngineerAditya/investment-recommendation-assistant)
-**Stack:** Python | Machine Learning | Financial Data Analysis
-
-Built an AI-powered system that analyzes financial data and provides personalized investment recommendations. This project helped me understand how to work with real-world datasets and build practical recommendation engines.
-
-**Technical Highlights:**
-- Implemented ML algorithms for pattern recognition in financial data
-- Built data processing pipelines for handling market trends
-- Designed for user accessibility and real-world usage
-
-#### 🤚 [Gesture Recognition System](https://github.com/EngineerAditya/gesture-recognition-system)
-**Stack:** Python | OpenCV | MediaPipe | TensorFlow
-
-Developed a real-time gesture and sign language recognition system using computer vision and deep learning. This project taught me about working with video data, hand landmark detection, and training custom models.
-
-**Technical Highlights:**
-- Real-time video processing with OpenCV
-- Custom TensorFlow model training for gesture classification
-- Integration of MediaPipe for accurate hand tracking
-- Focus on accessibility applications
+```text
+TechSolstice-26/
+├── public/                    # Static assets (logos, images)
+├── src/
+│   ├── app/                   # Next.js App Router pages
+│   ├── components/            # React components (organized by domain)
+│   ├── data/                  # Static data files
+│   ├── hooks/                 # Custom React hooks
+│   ├── lib/                   # Utilities, auth, chatbot logic
+│   └── types/                 # TypeScript type definitions
+├── middleware.ts              # Auth & route protection
+└── package.json
+```
 
 ---
 
-### 🌐 Full-Stack Deployment Projects
+## 📂 Components Structure
 
-#### 🎭 [RoastBot](https://github.com/EngineerAditya/roastbot) | [Live Demo](https://engineeraditya.github.io/roastbot/)
-**Stack:** JavaScript | Node.js | AI Integration
+Components are organized into **domain-based folders** for scalability:
 
-Created an interactive web application that combines AI with a fun user experience. This project demonstrates my ability to integrate AI capabilities into web applications and deploy them.
-
-**Technical Highlights:**
-- AI-powered content generation
-- Clean, responsive user interface
-- Successfully deployed and publicly accessible
-
-#### 🏛️ [IEEE MITB Website](https://github.com/EngineerAditya/ieee-mitb-website) | [Live Site](https://ieee-mitb-website.vercel.app)
-**Stack:** JavaScript | React | Vercel
-
-Developed the official website for our IEEE student chapter. This project involved working with a team, understanding user needs, and creating a production-ready web application.
-
-**Technical Highlights:**
-- Modern React-based architecture
-- Responsive design for all devices
-- Production deployment on Vercel
-- Handling real-world requirements and feedback
-
-#### 💡 [Innovation Cell Website](https://github.com/EngineerAditya/innovationcell-website) | [Live Site](https://innovationcell-website.vercel.app)
-**Stack:** TypeScript | Next.js | React
-
-Built a website for our college's Innovation Cell using TypeScript and Next.js. This helped me learn about type-safe development and modern web frameworks.
-
-**Technical Highlights:**
-- Full TypeScript implementation
-- Next.js for performance optimization
-- Clean code architecture
-- Successfully deployed to production
-
----
-
-## 🛠️ Technical Skills
-
-### AI/ML (Core Focus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Web Development (For Deployment)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+```text
+src/components/
+├── admin/           # Admin dashboard components (event-form)
+├── animations/      # Visual effects (GSAP scroll, patterns, grids)
+│   ├── asmr-static-background.tsx
+│   ├── flickering-grid.tsx
+│   ├── gooey-text-morphing.tsx
+│   ├── infinite-slider.tsx
+│   ├── pattern-text.tsx
+│   ├── scroll-path-animation.tsx
+│   └── zoom-parallax.tsx
+├── cards/           # Card components
+│   ├── event-card.tsx
+│   ├── expandable-card.tsx
+│   ├── FlipCard.tsx
+│   └── pixel-card.tsx
+├── chat/            # AI chatbot components
+│   ├── Chat.tsx
+│   ├── chatbot-widget.tsx
+│   └── ai-chat-ui.tsx
+├── common/          # Shared layout components
+│   ├── layout.tsx
+│   ├── providers.tsx
+│   ├── LenisProvider.tsx
+│   ├── navbar.tsx
+│   ├── loading-screen.tsx
+│   ├── scroll-to-top.tsx
+│   └── footer.tsx
+├── events/          # Event listing components
+│   ├── events-client.tsx
+│   ├── category-card.tsx
+│   ├── category-events-client.tsx
+│   └── category-page-client.tsx
+├── hero/            # Homepage hero section
+│   ├── hero-robot.tsx
+│   ├── fest-info.tsx
+│   ├── speaker-showcase.tsx
+│   ├── spline-scene.tsx
+│   ├── sponsors-section.tsx
+│   └── trailer.tsx
+├── misc/            # Miscellaneous (logo)
+├── navigation/      # Navbar variants (tubelight-navbar)
+├── profile/         # User profile components
+├── teams/           # Team management (dashboard, registration)
+└── ui/              # Base UI primitives (button, input, dialog, etc.)
+```
 
 ---
 
-## 📚 Learning & Growth
+## 📂 App Routes
 
-As a student, I'm continuously expanding my knowledge:
-
-**Current Focus:**
-- 🌟 **Generative AI & LLMs**: Understanding transformer architectures, prompt engineering, and how large language models work
-- 🧪 **Advanced ML Techniques**: Learning more about neural networks, model optimization, and best practices
-- 🏗️ **End-to-End ML Deployment**: Building complete pipelines from data to deployment
-
-**On the Roadmap:**
-- ☁️ **Cloud Platforms**: AWS, Azure, GCP for deploying ML applications at scale
-- 🐳 **Containerization**: Docker and Kubernetes for better deployment practices
-- 📊 **MLOps**: Version control for models, monitoring, and production best practices
-
----
-
-## 💡 Why Work With Me?
-
-**AI/ML is My Core:** I'm genuinely passionate about machine learning and spend most of my time working on AI projects, learning new techniques, and staying updated with the field.
-
-**Can Ship Complete Solutions:** While AI/ML is my focus, I've learned full-stack development specifically to be able to deploy and share my ML work. This means I can take a model from training to a live, usable application.
-
-**Eager to Learn:** As a student, I'm at a point where I can absorb new technologies quickly and adapt to different tech stacks and methodologies.
-
-**Problem-Focused:** My projects aren't just academic exercises - they aim to solve real problems, from accessibility (gesture recognition) to practical tools (investment assistant).
+```text
+src/app/
+├── page.tsx                   # Homepage
+├── layout.tsx                 # Root layout (providers, navbar, footer)
+├── globals.css                # Global styles + Tailwind
+├── events/
+│   ├── page.tsx               # Events listing
+│   └── [category]/page.tsx    # Category-specific events
+├── profile/page.tsx           # User profile (protected)
+├── passes/page.tsx            # Pass/ticket management
+├── login/page.tsx             # Authentication
+├── complete-profile/page.tsx  # Onboarding flow
+├── help/page.tsx              # Support tickets
+├── admin-dashboard/page.tsx   # Admin panel (protected)
+├── chatbot/page.tsx           # Chatbot page
+├── socials/page.tsx           # Social links
+└── api/
+    ├── auth/[...nextauth]/    # NextAuth endpoints
+    ├── chat/route.ts          # AI chat API
+    └── tickets/route.ts       # Support tickets API
+```
 
 ---
 
-## 📊 GitHub Stats:
+## 📂 Lib & Utilities
 
-<div align="center">
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngineerAditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) -->
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerAditya&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
-
-I'm interested in opportunities where I can:
-- 💼 Work on real-world AI/ML problems
-- 🚀 Apply my skills to build impactful solutions
-- 📚 Learn from experienced professionals in the field
-- 🌱 Grow both technically and professionally
-
-Whether it's an internship, project collaboration, or entry-level role - I'm eager to contribute and learn.
+```text
+src/lib/
+├── auth.ts                    # NextAuth configuration
+├── utils.ts                   # Helper functions (cn, etc.)
+├── constants/categories.ts    # Event category definitions
+├── chatbot/
+│   ├── gemini-client.ts       # Google Gemini AI client
+│   ├── vector-search.ts       # RAG vector search
+│   ├── query-router.ts        # Intent routing
+│   ├── cache.ts               # Response caching
+│   └── rate-limiter.ts        # API rate limiting
+└── hooks/useUser.ts           # User session hook
+```
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Getting Started
 
-<div align="center">
+### Prerequisites
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/EngineerAditya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityasinha2006/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.adityasinha2006@gmail.com)
+- Node.js 18+
+- npm or pnpm
 
-<!-- Add your contact info here:
+### Installation
 
--->
+```bash
+# Clone the repository
+git clone https://github.com/your-org/TechSolstice-26.git
+cd TechSolstice-26
 
-**Open to opportunities in:**
-- AI/ML Engineering roles
-- Full-stack positions with ML focus
-- Research internships
-- Open source collaborations
+# Install dependencies
+npm install
 
-</div>
+# Set up environment variables
+cp .env.example .env.local
+# Edit .env.local with your keys
+```
+
+### Environment Variables
+
+```env
+# Supabase
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+
+# NextAuth
+AUTH_SECRET=
+AUTH_GOOGLE_ID=
+AUTH_GOOGLE_SECRET=
+
+# Gemini AI
+GEMINI_API_KEY=
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+### Production Build
+
+```bash
+npm run build
+npm start
+```
 
 ---
 
-<div align="center">
+## 📄 License
 
-*Thanks for visiting! Feel free to explore my projects and reach out if you'd like to connect.*
+MIT License - See [LICENSE](LICENSE)
 
-</div>
+---
+
+**TechSolstice'26** — Manipal Institute of Technology, Bengaluru
