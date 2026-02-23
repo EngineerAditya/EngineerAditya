@@ -140,7 +140,7 @@ src/lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EngineerAditya/TechSolstice-26.git
+git clone https://github.com/your-org/TechSolstice-26.git
 cd TechSolstice-26
 
 # Install dependencies
